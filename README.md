@@ -1,11 +1,15 @@
 # 👋 Hi, I'm **Chinedu E. Ekuma, PhD**
+**Chinedu E. Ekuma** is an AI/ML scientist, computational physicist, and engineering researcher specializing in machine learning, scientific computing, and high-impact data-driven solutions.
 ### Principal AI/ML Scientist • Computational Physicist • Applied Researcher • Professor  
 Transforming complex scientific and business challenges into **scalable, data-driven, AI-powered solutions**.
 
+![GitHub followers](https://img.shields.io/github/followers/gmp007?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/gmp007?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ---
 
 ## 🚀 About Me
-I am a professor, computational researcher, and AI/ML scientist with deep experience in:
+I am a professor, computational scientist, and AI/ML practitioner who works at the intersection of academic research, enterprise AI systems, and data-driven innovation. My work spans:
+
 
 - **Large Language Models (LLMs)**, multi-agent systems, and generative AI  
 - **Causal inference**, deep learning, predictive modeling, and decision science  
@@ -13,8 +17,11 @@ I am a professor, computational researcher, and AI/ML scientist with deep experi
 - **Enterprise ML systems** that generate measurable business impact  
 - **Mathematical & computational modeling** for complex real-world systems  
 
+This GitHub profile represents the work and research of **Chinedu Ekuma**, PhD — an AI/ML scientist and computational researcher.
+
+
 My work spans academia, applied research labs, and industry — including building production-grade AI systems at **Amazon**, **Evalueserve**, delivering measurable business value through production-grade AI/ML systems, and leading multi-million-dollar AI research programs in academia.  
-:contentReference[oaicite:1]{index=1}
+
 
 I focus on designing **AI systems that think, reason, and accelerate discovery** — from materials modeling and quantum-scale simulation to enterprise forecasting, optimization, and customer intelligence.
 
@@ -87,10 +94,14 @@ If your project sits at the intersection of **AI, computation, and real-world im
 
 ## 📬 Connect with Me
 - **GitHub:** https://github.com/gmp007  
-- **LinkedIn:** https://linkedin.com/in/chineduekuma  
+- **LinkedIn:** https://linkedin.com/in/chineduekuma
+- 🌐 **Personal Website:** https://gmp007.github.io  
 - **Email:** cekuma1@gmail.com  
 
 ---
 
 ### ⭐ If you find my work useful, consider starring the repositories — it helps others discover them!
 
+
+---
+© 2025 — Profile of **Chinedu E. Ekuma**, PhD

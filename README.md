@@ -95,7 +95,7 @@ If your project sits at the intersection of **AI, computation, and real-world im
 ## 📬 Connect with Me
 - **GitHub:** https://github.com/gmp007  
 - **LinkedIn:** https://linkedin.com/in/chineduekuma
-- 🌐 **Personal Website:** https://gmp007.github.io  
+- 🌐 **Personal Website:** https://cekuma.com, https://gmp007.github.io  
 - **Email:** cekuma1@gmail.com  
 
 ---

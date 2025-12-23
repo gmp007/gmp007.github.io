@@ -1,5 +1,5 @@
-# 👋 Hi, I'm **Chinedu E. Ekuma, PhD**
-**Chinedu E. Ekuma** is an AI/ML scientist, computational physicist, and engineering researcher specializing in machine learning, scientific computing, and high-impact data-driven solutions.
+# 👋 Hi, I'm **Chinedu Ekuma, PhD**
+**Chinedu Ekuma** is an AI/ML scientist, computational physicist, and engineering researcher specializing in machine learning, scientific computing, and high-impact data-driven solutions.
 ### Principal AI/ML Scientist • Computational Physicist • Applied Researcher • Professor  
 Transforming complex scientific and business challenges into **scalable, data-driven, AI-powered solutions**.
 
